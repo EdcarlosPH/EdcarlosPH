@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdcarlosPH
+- 👋 Hi, I’m @Edcarlos
 - 👀 I’m interested in  HTML , CSS ,PY, NodeJs
 - 🌱 I’m currently learning  Java
 - 💞️ I’m looking to collaborate on  HTML
